@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Projects I'm Working On
-- ✅ Cloud Hosting Lab Projects
+
 - 🚧 Infrastructure Automation using Terraform & Ansible
 - 🚀 Deploying applications on AWS using EC2, VPC, and Load Balancers
 - 🎯 Building a Banking Support Chatbot (Amazon Lex + Lambda)
@@ -36,7 +36,7 @@
 ---
 
 ### 🎯 Current Goals
-- Become AWS Certified Cloud Practitioner → **November 2025**
+- Become AWS Certified  solution architect associate → **November 2025**
 - Build 3–5 strong cloud portfolio projects
 - Land a Junior Cloud Engineer role / Internship by **2025**
 
@@ -44,7 +44,7 @@
 
 ### 🌍 Connect With Me
 - 🐙 GitHub: **github.com/muchai322**
-- 📧 Email: (Add your professional email here)
+- 📧 Email: muchaindungu804@gmail.com
 
 ---
 
