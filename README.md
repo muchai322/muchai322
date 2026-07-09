@@ -1,51 +1,79 @@
-# 👋 Hey, I'm Joseph Muchai
+# Joseph Muchai Ndungu
 
-🚀 **Junior Cloud Engineer** passionate about building scalable infrastructure and automation in the cloud.
+## Data Engineer | Analytics Engineer
 
----
-
-### 🧑‍💻 What I Do
-- 🌩️ Cloud Architecture & Deployment
-- 🐧 Linux Systems Administration
-- 🌐 Networking & Security
-- 🧱 Infrastructure as Code (IaC)
-- 🔁 CI/CD & Automation
+I design and build end-to-end data pipelines that transform raw data into trusted, analytics-ready datasets. My work focuses on leveraging cloud computing, modern data platforms, and analytics engineering practices to deliver scalable, reliable, and efficient data solutions for decision-making.
 
 ---
 
-### 🛠️ Technologies & Tools
+## Tech Stack
 
-| Category | Tools |
-|---------|------|
-| Cloud | AWS (Learning), Cloud Architecture |
-| IaC | Terraform, Ansible |
-| OS & DevOps | Linux (Ubuntu), Docker (learning), Git & GitHub |
-| Networking | Subnetting, Routing, Security groups |
-| Scripting | Bash (Learning Python soon) |
+**Programming**
+- Python
+- SQL
 
----
+**Cloud**
+- Google Cloud Platform (GCP)
+- BigQuery
+- Cloud Storage
+- Dataproc
 
-### 📌 Projects I'm Working On
+**Data Engineering**
+- Apache Spark
+- dbt
+- ETL & ELT
+- Data Modeling
+- Data Warehousing
 
-- 🚧 Infrastructure Automation using Terraform & Ansible
-- 🚀 Deploying applications on AWS using EC2, VPC, and Load Balancers
-- 🎯 Building a Banking Support Chatbot (Amazon Lex + Lambda)
+**Analytics**
+- Power BI
 
-> More coming soon as I continue growing my cloud skills!
-
----
-
-### 🎯 Current Goals
-- Become AWS Certified  solution architect associate → **November 2025**
-- Build 3–5 strong cloud portfolio projects
-- Land a Junior Cloud Engineer role / Internship by **2025**
-
----
-
-### 🌍 Connect With Me
-- 🐙 GitHub: **github.com/muchai322**
-- 📧 Email: muchaindungu804@gmail.com
+**Tools**
+- Git
+- Linux
 
 ---
 
-💡 _“Learning, building, and architecting the cloud — one resource at a time.”_
+## Featured Projects
+
+### Sokoni Data Platform
+
+An end-to-end cloud data platform that ingests, transforms, and stores retail sales data to support analytics and business intelligence.
+
+**Project Highlights**
+
+- Designed a scalable batch data pipeline on Google Cloud.
+- Built ETL workflows to ingest, clean, and transform raw data.
+- Developed analytics-ready datasets using dimensional modeling.
+- Implemented data quality validation throughout the pipeline.
+- Optimized data storage and querying for analytical workloads.
+
+---
+
+### Brazil E-commerce Analytics
+
+An analytics engineering project that transforms raw e-commerce data into trusted business models for reporting and decision support.
+
+**Project Highlights**
+
+- Built analytics-ready data models using ELT principles.
+- Designed dimensional models to support business reporting.
+- Developed data marts for sales and customer analytics.
+- Applied data quality checks to improve data reliability.
+- Delivered business insights through interactive dashboards.
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- Data Engineer Learning Path – DataCamp
+
+---
+
+## Contact
+
+**Email:** muchaindungu804@gmail.com
+
+**LinkedIn:**  
+https://www.linkedin.com/in/muchai-ndungu-1215a6256
